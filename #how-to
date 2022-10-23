@@ -1,3 +1,11 @@
+Installing modules:
+For backend (Near Contract)
+yarn add -D near-sdk-as
+yarn add -D --ignore-scripts near-sdk-as
+
+
+
+
 1. Compile the contract
 
 $yarn asb

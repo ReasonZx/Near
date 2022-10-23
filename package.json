@@ -9,5 +9,7 @@
   },
   "dependencies": {
     "tar": "^6.1.11"
-  }
+  },
+  "repository": "https://github.com/ReasonZx/NearMarketplaceDapp.git",
+  "author": "reasonzx <xico.reasonzx@gmail.com>"
 }
