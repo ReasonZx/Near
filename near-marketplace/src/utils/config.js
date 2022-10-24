@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME || "marketplace.reasonzx.testnet"; // line 1
+const CONTRACT_NAME = process.env.CONTRACT_NAME || "marketplacerust.reasonzx.testnet"; // line 1
 
 function environment(env) {
   switch (env) {

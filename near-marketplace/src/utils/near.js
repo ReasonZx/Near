@@ -20,7 +20,7 @@ export async function initializeContract() {
         {
             viewMethods: ["getProduct", "getProducts"],
             changeMethods: ["buyProduct", "setProduct"],
-        }
+          }
     );
 }
 

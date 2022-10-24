@@ -1,0 +1,1 @@
+/home/reasonzx/Documents/blockchain/Near/NearMarketPlaceDapp/near-marketplace-contract/target/wasm32-unknown-unknown/release/near_marketplace_contract.wasm: /home/reasonzx/Documents/blockchain/Near/NearMarketPlaceDapp/near-marketplace-contract/src/lib.rs
