@@ -1,4 +1,5 @@
 {
+  "homepage": "https://reasonzx.github.io/NearMarketplaceDapp",
   "name": "near-marketplace-contract",
   "version": "1.0.0",
   "description": "Near development 101",
@@ -8,11 +9,14 @@
     "near-sdk-as": "^3.2.3"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "near-api-js": "^1.1.0",
     "react-scripts": "^4.0.3",
     "tar": "^6.1.11",
     "uuid": "^9.0.0"
   },
   "repository": "https://github.com/ReasonZx/NearMarketplaceDapp.git",
-  "author": "reasonzx <xico.reasonzx@gmail.com>"
+  "author": "reasonzx <xico.reasonzx@gmail.com>",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 }
